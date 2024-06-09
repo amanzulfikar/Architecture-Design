@@ -5,7 +5,7 @@ Launched a Static Website (Project 1)- Created S3 buckets to host a static websi
 
 ![SA 2](https://github.com/amanzulfikar/Architecture-Design/assets/171962956/564a5511-4d24-44e4-916e-de8e26923ff4)
 
-Creating a Dynamic Website for the Cafe (Project 2)- Connected to the AWS Cloud9 IDE through an EC2 instance. Confirmed web server accessibility. Installed a web application on an EC2 instance that also uses AWS Systems Manager Parameter store. Troubleshooted website successfully by attaching appropriate IAM role to grant permission. Created an AMI and deployed the second copy of the web application to another AWS Region.
+Creating a Dynamic Website for the Cafe (Project 2)- Connected to the AWS Cloud9 IDE through an EC2 instance. Confirmed web server accessibility. Installed a web application on an EC2 instance that also used AWS Systems Manager Parameter store. Troubleshooted website successfully by attaching an appropriate IAM role to grant permission. Created an AMI and deployed the second copy of the web application to another AWS Region.
 
 ![SA 3](https://github.com/amanzulfikar/Architecture-Design/assets/171962956/caf42e91-bb4c-45fb-8ab4-7b45cca47277)
 
@@ -25,11 +25,11 @@ Controlled AWS Account Access through IAM (Project 6)- Created IAM users and IAM
 
 ![SA 7](https://github.com/amanzulfikar/Architecture-Design/assets/171962956/8e70383b-14bf-4cca-b909-4c966011cb99)
 
-Created a Scalable and Highly Available Environment for a Café (Project 7)- Inspected the VPC. Updated a network to work across multiple Availability Zones. Created an Application Load Balancer. Created a launch template and an Auto Scaling group. Tested load balancing and automatic scaling through putty. 
+Created a Scalable and Highly Available Environment for a Café (Project 7)- Inspected the VPC. Updated a network to work across multiple Availability Zones. Created an Application Load Balancer, a launch template, and an Auto Scaling group. Tested load balancing and automatic scaling through putty. 
 
 ![SA 8](https://github.com/amanzulfikar/Architecture-Design/assets/171962956/20a8913f-55e3-421f-923e-143caaaf5a5e)
 
-Automating Infrastructure Deployment (Project 8)- Deployed a VPC networking layer by using an AWS CloudFormation template. Deployed an application layer by using an AWS CloudFormation template. Used Git to invoke AWS CodePipeline, and to create or update stacks from templates that are stored in AWS CodeCommit. Duplicated network and application resources to another AWS Region by using AWS CloudFormation. 
+Automating Infrastructure Deployment (Project 8)- Deployed an application layer and VPC networking layer by using an AWS CloudFormation template. Used Git to invoke AWS CodePipeline, and to create or update stacks from templates that are stored in AWS CodeCommit. Duplicated network and application resources to another AWS Region by using AWS CloudFormation. 
 
 ![SA 9](https://github.com/amanzulfikar/Architecture-Design/assets/171962956/f459362b-a41b-45d5-9a75-41a088f512c1)
 
